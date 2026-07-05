@@ -128,11 +128,11 @@ Ecommerce Sale/
 
 ### Main Dashboard
 
-![Dashboard](Ecommerce%20Sales%20DashBoard.png)
+![Dashboard](Ecommerce%20Sale/EcommerceSalesDashBoard.png)
 
 ### Insights & Recommendations
 
-![Insights](Sales%20%26%20Recommendation.png)
+![Insights](Ecommerce%20Sale/Sales&Recommendation.png)
 
 ---
 
